@@ -2,14 +2,18 @@
 Appendix for "HWGED-ABR: Historical Waveform-Guided Evidential Deep Learning for Real-Time Auditory Brainstem Response Threshold Estimation"
 
 # Contents
-A. Details of the Learning-based Network.
+Part I: Details of the Learning-based Threshold Inference Network.
 
-Table 1A. Hyperparameter search space and optimal values for the learning-based inference network.
+Figure 1. Schematic overview of the learning-based network architecture.
 
-Figure 1A. Transformer encoder layer in the learning-based network.
+Figure 2. Transformer encoder layer in the learning-based network.
 
-Table 2A. Hyperparameter search space and optimal values for HWGED-ABR.
+Table 1. Hyperparameter search space and optimal values for the learning-based inference network.
 
-Table 3A. Agreement patterns of threshold estimation among HWGED-ABR and two audiologists on the BTH dataset. 
+Part II: Supplemented Tables.
 
+Table 1A. Hyperparameter search space and optimal values for HWGED-ABR.
 
+Table 2A. Inference time for different numbers of historical waveforms.
+
+Table 3A. Agreement patterns of threshold estimation among HWGED-ABR and two audiologists on the BTH dataset.
